@@ -1,0 +1,9 @@
+Zero To One,Peter Thiel,16102014,Biografie
+De Da Vinci Code,Dan Brown,00002000,Thriller
+God Created the Integers,Hawking, 12101982,Wiskunde
+Superfreakonomics, Stephen Dubner, 09102009,Economie
+Orientalism,Edward,01051975,Historie
+Nature of Statistical Learning Theory,Vladimir Springer,12102015,Wetenschap
+Integration of the Indian States,Menon Blacksaw,09101992 ,Historie
+Data Mining Handbook,Robert Nisbet,09112017,Wetenschap
+
