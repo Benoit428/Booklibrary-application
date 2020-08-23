@@ -112,6 +112,7 @@ namespace Bibliotheek_Console.Gui
 
         private void SaveButton_Click(object sender, EventArgs e)
         {
+            string gebruiker = (()f).txtbox1.Text;
             List<String> MyBooklist = GetAllElements(listBoeken);
             
             using (TextWriter tw = new StreamWriter("SavedList.txt"))

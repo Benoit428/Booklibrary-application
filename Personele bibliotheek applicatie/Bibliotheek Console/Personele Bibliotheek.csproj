@@ -78,7 +78,6 @@
     <Compile Include="Logica\BoekenLijst.cs" />
     <Compile Include="Logica\Boek.cs" />
     <Compile Include="Logica\Catalogus.cs" />
-    <Compile Include="Logica\Admin.cs" />
     <Compile Include="Logica\Genre.cs" />
     <Compile Include="Logica\User.cs" />
     <Compile Include="Logica\Exceptions.cs" />

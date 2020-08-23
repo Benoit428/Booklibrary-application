@@ -27,10 +27,11 @@ namespace Bibliotheek_Console
 
             String famNaam = this.txtNaam.Text;
             String voornaam = this.txtVoornaam.Text;
-
+            
 
                 if (File.Exists(($@"../Gebruikers/{famNaam}{voornaam}.txt")))
                 {
+                    
                     this.labelError.Text = $"gelukt";
                 Boekenlijst program = new Boekenlijst(famNaam,voornaam);
                     program.Show();
@@ -52,6 +53,11 @@ namespace Bibliotheek_Console
         }
 
         private void Inlogscherm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox2_Enter(object sender, EventArgs e)
         {
 
         }
